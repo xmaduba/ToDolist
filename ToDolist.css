@@ -1,9 +1,8 @@
 body{
-margin: auto;
-
-max-width: 800px;
-
-}
+    margin: auto;
+    
+    
+    }
 .form-select{
     width: 30%;
     margin-left:auto;
